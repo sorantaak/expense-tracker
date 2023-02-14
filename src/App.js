@@ -5,7 +5,6 @@ function App() {
 		<div>
 			<h1>Ltest Started React!!!!!!!!</h1>
 			<ExpenseItem />
-			<ExpenseItem />
 		</div>
 	);
 }
